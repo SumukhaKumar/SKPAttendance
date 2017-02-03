@@ -1,2 +1,2 @@
-# SKPAttendance
-Attendace System
+# AttendancePortal
+Portal for Attendance
